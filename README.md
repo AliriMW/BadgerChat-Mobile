@@ -28,7 +28,7 @@ The project implements a responsive, modular user interface for real-time chat f
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AliriMW/BadgerChat_Mobile.git
+   git clone https://github.com/AliriMW/BadgerChat-Mobile.git
    cd BadgerChat-Mobile
 
 2. Install dependencies:
@@ -53,7 +53,7 @@ You can still explore the app’s structure, UI design, and code logic.
 
 Watch the demonstration of the app’s interface and interactions:
 
-https://github.com/user-attachments/assets/e1713cd0-3952-45b5-8454-7b998c036d07
+https://github.com/user-attachments/assets/e6befa4b-3b3b-4476-90c1-9da943463d20
 
 ---
 
